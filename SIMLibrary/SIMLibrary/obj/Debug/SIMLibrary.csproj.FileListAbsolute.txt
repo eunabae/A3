@@ -1,0 +1,6 @@
+C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\SIMLibrary\SIMLibrary\bin\Debug\SIMLibrary.dll
+C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\SIMLibrary\SIMLibrary\bin\Debug\SIMLibrary.pdb
+C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\SIMLibrary\SIMLibrary\obj\Debug\SIMLibrary.csprojAssemblyReference.cache
+C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\SIMLibrary\SIMLibrary\obj\Debug\SIMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\SIMLibrary\SIMLibrary\obj\Debug\SIMLibrary.dll
+C:\Users\dmsdk\Documents\Visual Studio 2017\Projects\SIMLibrary\SIMLibrary\obj\Debug\SIMLibrary.pdb
